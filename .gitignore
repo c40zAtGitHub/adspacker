@@ -1,0 +1,4 @@
+adspacker.code-workspace
+.gitignore
+**/__pycache__/
+*.pickle
